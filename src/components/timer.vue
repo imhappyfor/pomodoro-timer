@@ -47,7 +47,7 @@ export default {
   },
   methods: {
     changeTimeMethod(val){  
-      console.log(val)
+
       this.longBreak = val.longTime;
       this.shortBreak = val.shortTime;
       this.pomodoroTime = val.defaultTime;

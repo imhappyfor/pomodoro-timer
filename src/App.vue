@@ -21,7 +21,6 @@
   padding: 30px;
   text-align: left;
   a {
-
     font-weight: bold;
     color: rgb(211, 194, 43);
 
