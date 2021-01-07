@@ -1,5 +1,8 @@
 # pomodoro-timer
 
+## Live example
+https://imhappyfor.github.io/pomodoro-timer/
+
 ## Project setup
 ```
 npm install
